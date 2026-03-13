@@ -1,16 +1,80 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub&fontSize=40&fontColor=ffffff"/>
 
-<!--
-**brunasofiafernandes/Brunasofiafernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# ✨ Bruna ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F78DA7&center=true&vCenter=true&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonada+por+Design+e+Tecnologia;Explorando+Programação+Web;Sempre+aprendendo+algo+novo"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300"/>
+
+</div>
+
+---
+
+## 🌷 Sobre mim
+
+- 🎓 Ensino médio técnico em **Desenvolvimento de Sistemas**
+- 🎨 Interesse em **design, UI/UX e interfaces**
+- 💻 Explorando **programação web**
+- 🌱 Sempre aprendendo novas tecnologias
+
+---
+
+## 💻 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,figma,git,vscode"/>
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://visitor-badge.laobi.icu/badge?page_id=SEUUSUARIO)
+
+</div>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer"/>
