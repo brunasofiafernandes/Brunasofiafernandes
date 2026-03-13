@@ -20,9 +20,9 @@
 
 ## 🌷 Sobre mim
 
-- 🎓 Ensino médio técnico em **Desenvolvimento de Sistemas**
-- 🎨 Interesse em **design, UI/UX e interfaces**
-- 💻 Explorando **programação web**
+- 🎓 Cursando ensino médio técnico em **Desenvolvimento de Sistemas** 
+- 🎨 Interesse em **design, UI/UX, interfaces e desenvolvimento web**
+- 💻 Explorando **diferentes áreas no mundo da programação**
 - 🌱 Sempre aprendendo novas tecnologias
 
 ---
