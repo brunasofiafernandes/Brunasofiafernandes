@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub&fontSize=40&fontColor=ffffff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=header"/>
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,figma,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,bootstrap,mysql,figma,ps,ai,git,vscode"/>
 
 </div>
 
