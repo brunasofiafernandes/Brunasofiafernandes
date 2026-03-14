@@ -18,7 +18,7 @@
 
 ---
 
-## 🌷 Sobre mim
+## Sobre mim
 
 - 🎓 Cursando ensino médio técnico em **Desenvolvimento de Sistemas** 
 - 🎨 Interesse em **design, UI/UX, interfaces e desenvolvimento web**
@@ -27,7 +27,7 @@
 
 ---
 
-## 💻 Tecnologias
+## 💻 Ferramentas e Linguagens 
 
 <div align="center">
 
