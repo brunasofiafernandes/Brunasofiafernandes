@@ -2,7 +2,7 @@
 
 <div align="center">
 
-#  Bruna Sofia 👩🏼‍💻
+#  👩🏼‍💻
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F78DA7&center=true&vCenter=true&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;Explorando+Programação;Sempre+aprendendo+algo+novo"/>
 
@@ -21,9 +21,7 @@
 ## Sobre mim
 
 - 🎓 Cursando ensino médio técnico em **Desenvolvimento de Sistemas** 
-- 🎨 Interesse em **design, UI/UX, interfaces e desenvolvimento web**
-- 💻 Explorando **diferentes áreas no mundo da programação**
-- 🌱 Sempre aprendendo novas tecnologias
+- 💻 Aprendendo novas tecnologias
 
 ---
 
@@ -31,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,bootstrap,sqlite,figma,ps,ai,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,figma,ps,ai,git,vscode"/>
 
 </div>
 
